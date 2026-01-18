@@ -1,2 +1,2 @@
-# FLL-2027-Challenge
-Pybricks (Spike Prime) code for the FLL 2026/27
+# FLL-Challenge
+Pybricks (Spike Prime) code for the FIRST LEGO League
